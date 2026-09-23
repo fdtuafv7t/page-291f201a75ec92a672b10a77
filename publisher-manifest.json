@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2c1f17d9285774255c9bc7d9",
+  "owner": "fdtuafv7t",
+  "repo": "page-291f201a75ec92a672b10a77",
+  "title": "花栗鼠",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "291f201a75ec92a672b10a77",
+      "a": "花栗鼠",
+      "b": "2027最新官网",
+      "entity": "花栗鼠",
+      "brand": "花栗鼠",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3f3095bcfd52dcdb130bdad1ce50b8669bc3a8a288dfd6ba6f629fa6648fe203",
+      "content": {
+        "primary_entity": "花栗鼠",
+        "keyword1": "花栗鼠",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，依客户端文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "先明确日常设备数量与流量需求，再选定合适套餐。",
+          "AI_CLOSING_TITLE": "选对套餐，用得更顺",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备在线，适合个人多设备、流媒体观看及团队协作场景。",
+          "AI_FEATURES_INTRO": "套餐围绕流量、设备数与线路类型区分，可按使用人数挑选。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，适合轻量浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TITLE_3": "按场景定线路",
+          "AI_GUIDE_INTRO": "从确认需求到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "花栗鼠提供多档海外加速订阅，按流量与设备数区分套餐，适合个人多设备、流媒体观看与团队协作，可依客户端文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "花栗鼠多档订阅，按设备匹配",
+          "AI_HIGHLIGHT_1": "多平台客户端与服务端兼容",
+          "AI_HIGHLIGHT_2": "三档订阅覆盖个人至团队使用",
+          "AI_HIGHLIGHT_3": "年付方案较月付更省费用",
+          "AI_PLANS_INTRO": "三档套餐按流量、设备数与线路区分，年付价格更优。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认日常在线设备数与月流量需求，对照三档套餐筛选。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认设备系统与线路类型匹配。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，依提示完成连接配置。",
+          "AI_STEP_TITLE_1": "明确需求",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "花栗鼠订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "花栗鼠套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "通常可在当前周期结束后切换档位，具体操作路径以购买后账户内提示为准，建议升级前确认剩余流量处理方式。",
+          "AI_FAQ_QUESTION_2": "基础版3台设备如何计算？",
+          "AI_FAQ_ANSWER_2": "同时在线设备合并计算，手机、电脑与平板均占名额，离线设备不长期占用，切换设备前建议先断开旧设备连接。",
+          "AI_FAQ_QUESTION_3": "旗舰版的IPLC专线有什么作用？",
+          "AI_FAQ_ANSWER_3": "IPLC专线针对游戏与实时通信优化延迟和抖动，适合对连接稳定性要求较高的场景，普通浏览也可使用其他节点。",
+          "AI_FAQ_QUESTION_4": "年付和月付价格差多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付¥150相当于月付¥15的十个月价格，旗舰版年付¥350、团队版年付¥850同样比按月支付更省。",
+          "AI_FAQ_QUESTION_5": "订阅链接导入失败怎么办？",
+          "AI_FAQ_ANSWER_5": "先检查客户端版本是否支持当前订阅格式，再核对链接是否完整复制；仍失败可尝试手动更新节点或联系优先工单支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mkru0d093g.com",
+    "host": "xn--mkru0d093g.com"
+  },
+  "file_hashes": {
+    "index.html": "78885772da648fe3faf0e118f943d77afd0840a914d837fc8748a4ab9d26a8f3",
+    "sitemap.xml": "a71a74cd3b8e88f6f327dd7b4f8ecb20b4ab09e82d69528fffaa8aab3376b26c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a6e2ca5c406656e1770821cd8cd4c79b5207767c1b5f1249bc281166dd64fc66",
+    "robots.txt": "6bfb5f743be2e75dddef5e7816a59b1e7ba8874da138263ada3423f4ac755dff",
+    "dbef8add1cda6b8d56300e1c32501c4f.txt": "37a1572168f249550d1affbc89e35edb35c422d066dd8198f65424a387914662"
+  },
+  "revision": "984809b71bcf07089e788346eddd3fb08b6b900eb57489b3c1978836e07ec894"
+}
